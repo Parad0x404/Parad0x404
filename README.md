@@ -2,7 +2,15 @@
 
 Perkenalkan nama saya **Anugerah Ramadhan**.
 
-If you're interested in getting to know me, follow me on [Linkedin](https://id.linkedin.com/in/anugerah-r). 
+If you're interested in getting to know me, follow me on [Linkedin](https://id.linkedin.com/in/anugerah-r).
+
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Parad0x404">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Parad0x404&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Parad0x404&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--
 **Parad0x404/Parad0x404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
